@@ -1,0 +1,35 @@
+# ALACRITTY CONFIGURATION
+[window]
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+opacity = 1.0
+blur = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+size = 10.5
+
+[font.normal]
+family = "SF Mono Nerd Font"
+style = "Medium"
+
+[font.bold]
+family = "SF Mono Nerd Font"
+style = "Medium"
+
+[font.italic]
+family = "SF Mono Nerd Font"
+style = "Medium"
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_interval = 500
+
+[terminal.shell]
+program = "/bin/zsh" # Change to "/bin/zsh" if you use Zsh
+
+[colors.primary]
+foreground = '#ffffff'
