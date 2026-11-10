@@ -31,5 +31,6 @@ blink_interval = 500
 [terminal.shell]
 program = "/bin/zsh" # Change to "/bin/zsh" if you use Zsh
 
-[colors.primary]
-foreground = '#ffffff'
+# [colors.primary]
+# foreground = "#ffffff"
+
