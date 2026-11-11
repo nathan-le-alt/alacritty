@@ -10,7 +10,7 @@ history = 10000
 multiplier = 3
 
 [font]
-size = 10.5
+size = 11
 
 [font.normal]
 family = "SF Mono Nerd Font"
