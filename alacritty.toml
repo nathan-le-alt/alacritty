@@ -10,7 +10,7 @@ history = 10000
 multiplier = 3
 
 [font]
-size = 11
+size = 10.75
 
 [font.normal]
 family = "SF Mono Nerd Font"
@@ -31,6 +31,6 @@ blink_interval = 500
 [terminal.shell]
 program = "/bin/zsh" # Change to "/bin/zsh" if you use Zsh
 
-# [colors.primary]
-# foreground = "#ffffff"
+[colors.primary]
+foreground = "#ebebeb"
 
