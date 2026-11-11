@@ -10,7 +10,7 @@ history = 10000
 multiplier = 3
 
 [font]
-size = 10.75
+size = 11
 
 [font.normal]
 family = "SF Mono Nerd Font"
@@ -34,3 +34,5 @@ program = "/bin/zsh" # Change to "/bin/zsh" if you use Zsh
 [colors.primary]
 foreground = "#ebebeb"
 
+[mouse]
+hide_when_typing = true
